@@ -1,0 +1,8 @@
+.decoration{
+	text-decoration-thickness: 2px;
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+}
+ .new-price-color {
+ 	color: #F28123;
+ }
